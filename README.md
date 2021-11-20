@@ -9,3 +9,4 @@ The project consisted in analyzing the data recorded by the Dreem headband on se
 The dreem headband monitors several physiological signals (respiration, heart rate, electrical signals due to neuronal activity) 
 thanks to numerous sensors (accelerometer, oxymeter, electro-encephalogramm).
 
+## Run
