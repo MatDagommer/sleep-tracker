@@ -14,5 +14,3 @@ thanks to numerous sensors (accelerometer, oxymeter, electro-encephalogramm).
 
 ## Output
 
-
-![alt text](img/Capture.JPG)
