@@ -16,4 +16,4 @@ thanks to numerous sensors (accelerometer, oxymeter, electro-encephalogramm).
 
 
 
-![alt text](img/Capture.JPG)
+![alt text](img/Capture_2.JPG)
