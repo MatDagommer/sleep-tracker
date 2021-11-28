@@ -10,3 +10,9 @@ The dreem headband monitors several physiological signals (respiration, heart ra
 thanks to numerous sensors (accelerometer, oxymeter, electro-encephalogramm).
 
 ## Run
+
+
+## Output
+
+
+![alt text](img/Capture.JPG)
