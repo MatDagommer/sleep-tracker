@@ -1,4 +1,4 @@
-# sleep-tracker
+# Welcome to the sleep-tracker project !
 physiology project - quantification of delta wave density during sleep 
 
 This project has been conducted during ESPCI practical sessions under the supervision of Prof. Thierry Gallopin. 
